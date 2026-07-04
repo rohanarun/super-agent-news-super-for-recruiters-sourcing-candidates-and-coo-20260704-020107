@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[creao.ai](https://creao.ai/for/recruiters)",
+    "[hermify.io](https://www.hermify.io/en/blog/ai-agent-for-recruiters)",
+    "[shrm.org](https://www.shrm.org)",
+    "[forbes.com](https://www.forbes.com)",
+    "[tech-target.com](https://www.techtarget.com)",
+    "[blog.google](https://blog.google)",
+    "[memeburn.com](https://memeburn.com)",
+    "[scmedia.com](https://www.scmagazine.com)"
+  ],
+  "design_plan": "rng=42; hero_math=1120px/2.3 lines; AIDA=pass; bento_density=grid-auto-flow:dense verified; label_sweep=all competitors named; button_contrast=pass",
+  "generated_at": "2026-07-04T02:01:14.764666+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page for recruiters who spend hours sourcing candidates, coordinating interviews, and chasing follow\u2011ups. The page ties current evidence about agentic AI and recruiting automation to Super\u2019s core advantage: a personal AI agent that can operate real recruiting tools and reuse a computer\u2011use cache so repeated workflows get faster and cheaper over time."
+}
